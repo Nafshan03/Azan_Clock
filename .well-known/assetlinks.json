@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nafshan03.twa",
+        "sha256_cert_fingerprints": ["4D:E5:E5:12:85:D8:43:1E:AD:5B:18:A9:AA:5D:E1:5C:58:94:FB:CB:E0:59:E0:CA:78:09:3D:EC:D6:B0:D8:66"]
+      }
+    }]
 
